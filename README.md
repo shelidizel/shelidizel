@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shelidizel
+- 👋 Hi, I’m @sheldon
 - 👀 I’m interested in mobile apps, algorithims and data structures.
 - 🌱 I’m currently learning flutter/dart.
 - 💞️ I’m looking to collaborate on exciting stuff.
