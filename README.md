@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheldon
 - 👀 I’m interested in mobile apps, algorithims and data structures.
-- 🌱 I’m currently learning flutter/dart, node.js, mongodb, javascript.
+- 🌱 I’m currently learning flutter/dart, node.js, mongodb, javascript, react.
 - 💞️ I’m looking to collaborate on exciting stuff.
 - 📫 How to reach me tujuelinks@gmail.com
 
